@@ -4,4 +4,9 @@
     <h1>Welcome to Mykit</h1>
     <p>A starter kit for building Sveltekit websites and apps.</p>
   </div>
+  <ul class="list-disc">
+    <li>Sveltekit</li>
+    <li>UnoCSS</li>
+    <li>Mdsvex</li>
+  </ul>
 </div>
