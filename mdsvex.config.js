@@ -9,6 +9,11 @@ const config = defineConfig({
 
   remarkPlugins: [],
   rehypePlugins: [],
+  layout: {
+    default: "src/layouts/default.svelte",
+    page: "src/layouts/page.svelte",
+    post: "src/layouts/post.svelte",
+  },
 });
 
 export default config;
