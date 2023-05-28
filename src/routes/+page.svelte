@@ -15,7 +15,14 @@
     <li>Mdsvex</li>
     <ul class="ml-8 text-sm list-disc">
       <li>Custom layouts</li>
-      <li>Sample <a class="underline" href="/about">page</a> and <a class="underline" href="/blog/a-sample-post">post</a></li>
+      <li>
+        Sample <a class="underline" href="/about">page</a> and
+        <a class="underline" href="/blog/a-sample-post">post</a>
+      </li>
     </ul>
   </ul>
 </div>
+
+<svelte:head>
+  <title>Mykit</title>
+</svelte:head>

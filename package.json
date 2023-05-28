@@ -26,9 +26,5 @@
     "unocss": "^0.52.3",
     "vite": "^4.3.0"
   },
-  "type": "module",
-  "dependencies": {
-    "axios": "^1.4.0",
-    "proxy-agent": "^6.2.1"
-  }
+  "type": "module"
 }
