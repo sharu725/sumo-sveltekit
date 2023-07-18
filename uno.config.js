@@ -3,8 +3,6 @@ import presetUno from "@unocss/preset-uno";
 import presetIcons from "@unocss/preset-icons";
 import presetAttributify from "@unocss/preset-attributify";
 import presetWebFonts from "@unocss/preset-web-fonts";
-import axios from "axios";
-import ProxyAgent from "proxy-agent";
 
 export default defineConfig({
   presets: [
