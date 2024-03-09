@@ -10,7 +10,6 @@
     <ul class="ml-8 text-sm list-disc">
       <li>Tailwind support</li>
       <li>CSS icons</li>
-      <li>Webfonts</li>
     </ul>
     <li>Mdsvex</li>
     <ul class="ml-8 text-sm list-disc">
