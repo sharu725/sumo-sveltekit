@@ -7,6 +7,10 @@
     <p class="mb-2">A starter kit for building Sveltekit websites and apps.</p>
     <ul class="list-disc font-mono">
       <li>Sveltekit</li>
+      <ul class="ml-8 text-sm list-disc">
+        <li>SvelteKit 2.0</li>
+        <li>Svelte 5.0 (unstable)</li>
+      </ul>
       <li>UnoCSS</li>
       <ul class="ml-8 text-sm list-disc">
         <li>Tailwind support</li>
@@ -20,6 +24,7 @@
           <a class="underline" href="/blog/a-sample-post">post</a>
         </li>
       </ul>
+      <li>Other awesome features!</li>
     </ul>
   </div>
 </div>
