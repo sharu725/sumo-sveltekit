@@ -1,5 +1,5 @@
 :root {
-    --ff: font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
+    --ff: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace; /* https://systemfontstack.com/ */
 }
 
 body {
