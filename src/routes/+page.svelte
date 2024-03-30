@@ -9,12 +9,28 @@
       <li>Sveltekit</li>
       <ul class="ml-8 text-sm list-disc">
         <li>SvelteKit 2.0</li>
-        <li>Svelte 5.0 (unstable)</li>
+        <li>
+          <a
+            class="underline"
+            href="https://svelte-5-preview.vercel.app/docs/introduction"
+            target="_blank"
+            rel="external"
+          >
+            Svelte 5.0 (unstable)
+          </a>
+        </li>
       </ul>
       <li>UnoCSS</li>
       <ul class="ml-8 text-sm list-disc">
         <li>Tailwind support</li>
-        <li>CSS icons</li>
+        <li>
+          <a
+            class="underline"
+            href="https://unocss.dev/presets/icons"
+            target="_blank"
+            rel="external">CSS icons</a
+          >
+        </li>
       </ul>
       <li>Mdsvex</li>
       <ul class="ml-8 text-sm list-disc">
