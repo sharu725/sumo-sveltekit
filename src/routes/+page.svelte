@@ -1,4 +1,4 @@
-<div class="grid place-items-center h-screen">
+<div class="grid place-items-center h-screen px-4">
   <div class="grid place-items-center">
     <div class="flex text-center">
       <div class="i-tabler-tools-kitchen text-5xl text-orange-600 mr-1" />
@@ -42,6 +42,15 @@
       </ul>
       <li>Other awesome features!</li>
     </ul>
+  </div>
+  <div>
+    <a
+      class="flex items-center hover:underline"
+      href="https://github.com/sharu725/sumo-sveltekit"
+    >
+      <div class="i-octicon:mark-github-16 mr-1"></div>
+      Github</a
+    >
   </div>
 </div>
 
