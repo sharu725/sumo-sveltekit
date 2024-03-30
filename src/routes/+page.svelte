@@ -55,5 +55,5 @@
 </div>
 
 <svelte:head>
-  <title>Mykit</title>
+  <title>SumoKit - Starter SvelteKit</title>
 </svelte:head>
