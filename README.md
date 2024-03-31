@@ -22,4 +22,4 @@ A starter kit for SvelteKit.
 
 ## Disclaimer
 
-Svetle 5 is still in development. Expect bugs and warning.
+[Svetle 5](https://svelte-5-preview.vercel.app/docs/introduction) is still in development. Expect bugs and warning.
