@@ -2,7 +2,7 @@
   <div class="grid place-items-center">
     <div class="flex text-center">
       <div class="i-tabler-tools-kitchen text-5xl text-orange-600 mr-1" />
-      <h1 class="font-lato text-5xl font-bold mb-3">SumoKit</h1>
+      <h1 class="text-5xl mb-3">SumoKit</h1>
     </div>
     <p class="mb-2">A starter kit for building Sveltekit websites and apps.</p>
     <ul class="list-disc font-mono">
@@ -45,7 +45,7 @@
   </div>
   <div>
     <a
-      class="flex items-center hover:underline"
+      class="btn bg-gray-100 hover:bg-gray-200"
       href="https://github.com/sharu725/sumo-sveltekit"
     >
       <div class="i-octicon:mark-github-16 mr-1"></div>
