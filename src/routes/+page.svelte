@@ -1,13 +1,25 @@
 <div class="grid place-items-center h-screen px-4">
   <div class="grid place-items-center">
-    <div class="flex text-center">
-      <div class="i-tabler-tools-kitchen text-5xl text-orange-600 mr-1"></div>
-      <h1 class="text-5xl mb-3">SumoKit</h1>
-    </div>
-    <p class="mb-2">A starter kit for building Sveltekit websites and apps.</p>
+    <a
+      href="/"
+      class="flex items-center text-center mb-4 group hover:shadow-xl duration-300"
+    >
+      <div class="bg-gray-700 p-1 group-hover:bg-red-600">
+        <div
+          class="i-tabler-tools-kitchen text-5xl text-orange-500 group-hover:text-gray-100 mr-1"
+        ></div>
+      </div>
+      <h1 class="text-5xl bg-orange-700 text-white p-1 group-hover:bg-red-600">
+        SumoKit
+      </h1>
+    </a>
+    <p class="text-center mb-2">
+      A starter kit for building Sveltekit websites and apps. <br /> Expect bugs
+      since the template uses <strong>latest</strong> Svelte & SvelteKit.
+    </p>
     <ul class="list-disc font-mono">
-      <li>Sveltekit</li>
-      <ul class="ml-8 text-sm list-disc">
+      <li class="font-semibold">Sveltekit</li>
+      <ul class="ml-8 text-sm list-disc mb-3">
         <li>SvelteKit 2.0</li>
         <li>
           <a
@@ -20,9 +32,9 @@
           </a>
         </li>
       </ul>
-      <li>UnoCSS</li>
-      <ul class="ml-8 text-sm list-disc">
-        <li>Tailwind support</li>
+      <li class="font-semibold">UnoCSS</li>
+      <ul class="ml-8 text-sm list-disc mb-3">
+        <li>Tailwind classes support</li>
         <li>
           <a
             class="underline"
@@ -32,15 +44,15 @@
           >
         </li>
       </ul>
-      <li>Mdsvex</li>
-      <ul class="ml-8 text-sm list-disc">
+      <li class="font-semibold">Mdsvex</li>
+      <ul class="ml-8 text-sm list-disc mb-3">
         <li>Custom layouts</li>
         <li>
           Sample <a class="underline" href="/about">page</a> and
           <a class="underline" href="/blog/a-sample-post">post</a>
         </li>
       </ul>
-      <li>Other awesome features!</li>
+      <li class="font-semibold">Other awesome features!</li>
     </ul>
   </div>
   <div>
