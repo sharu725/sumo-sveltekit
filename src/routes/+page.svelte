@@ -1,7 +1,7 @@
 <div class="grid place-items-center h-screen px-4">
   <div class="grid place-items-center">
     <div class="flex text-center">
-      <div class="i-tabler-tools-kitchen text-5xl text-orange-600 mr-1" />
+      <div class="i-tabler-tools-kitchen text-5xl text-orange-600 mr-1"></div>
       <h1 class="text-5xl mb-3">SumoKit</h1>
     </div>
     <p class="mb-2">A starter kit for building Sveltekit websites and apps.</p>
@@ -16,7 +16,7 @@
             target="_blank"
             rel="external"
           >
-            Svelte 5.0 (unstable)
+            Svelte 5.0 (Release Candidate)
           </a>
         </li>
       </ul>
