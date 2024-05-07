@@ -6,7 +6,7 @@
     >
       <div class="bg-gray-700 p-1 group-hover:bg-red-600">
         <div
-          class="i-tabler-tools-kitchen text-5xl text-orange-500 group-hover:text-gray-100 mr-1"
+          class="i-tabler-tools-kitchen text-5xl text-orange-500 group-hover:text-gray-100 mr-1 duration-300"
         ></div>
       </div>
       <h1 class="text-5xl bg-orange-700 text-white p-1 group-hover:bg-red-600">
@@ -15,7 +15,7 @@
     </a>
     <p class="text-center mb-2">
       A starter kit for building Sveltekit websites and apps. <br /> Expect bugs
-      since the template uses <strong>latest</strong> Svelte & SvelteKit.
+      as the template uses <strong>latest</strong> Svelte & SvelteKit.
     </p>
     <ul class="list-disc font-mono">
       <li class="font-semibold">Sveltekit</li>
