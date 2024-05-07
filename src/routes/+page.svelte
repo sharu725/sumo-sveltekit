@@ -2,16 +2,12 @@
   <div class="grid place-items-center">
     <a
       href="/"
-      class="flex items-center text-center mb-4 group hover:shadow-xl duration-300"
+      class="logo flex items-center text-center mb-4 group hover:shadow-xl"
     >
-      <div class="bg-gray-700 p-1 group-hover:bg-red-600">
-        <div
-          class="i-tabler-tools-kitchen text-5xl text-orange-500 group-hover:text-gray-100 mr-1 duration-300"
-        ></div>
+      <div class="icon p-1">
+        <div class="i-tabler-tools-kitchen text-5xl mr-1"></div>
       </div>
-      <h1 class="text-5xl bg-orange-700 text-white p-1 group-hover:bg-red-600">
-        SumoKit
-      </h1>
+      <h1 class="text-5xl bg-orange-700 text-white p-1">SumoKit</h1>
     </a>
     <p class="text-center mb-2">
       A starter kit for building Sveltekit websites and apps. <br /> Expect bugs
@@ -69,3 +65,28 @@
 <svelte:head>
   <title>SumoKit - Starter SvelteKit</title>
 </svelte:head>
+
+<style>
+  .logo {
+    h1 {
+      background: #e96d3a;
+      background: linear-gradient(to left, #e96d3a 50%, #374151 50%) right;
+      background-size: 200%;
+      transition: 0.25s ease-out;
+    }
+    .icon {
+      color: #e96d3a;
+      background: #374151;
+      background: linear-gradient(to right, #374151 50%, #e96d3a 50%) left;
+      background-size: 200%;
+      transition: 0.25s ease-out;
+    }
+    &:hover h1 {
+      background-position: left;
+    }
+    &:hover .icon {
+      color: #eee;
+      background-position: right;
+    }
+  }
+</style>
