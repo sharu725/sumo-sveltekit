@@ -1,13 +1,17 @@
 # SUMO SvelteKit
 
-A starter kit for SvelteKit.
+A bleeding edge starter kit for SvelteKit.
+
+## Warning
+
+The template uses bleeding edge Svelte & SvelteKit packages. Expect bugs.
 
 ## Features
 
 - SvelteKit ^2.0
 - UnoCSS(supports tailwind classes)
 - MdSvex for markdown posts and pages
-- CSS Icons by UnoCSS
+- Other awesome features
 
 ## Usage
 
