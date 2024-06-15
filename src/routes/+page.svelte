@@ -38,6 +38,11 @@
             target="_blank"
             rel="external">CSS icons</a
           >
+          <a
+            class="underline"
+            href="https://icon-sets.iconify.design/ic/"
+            target="_blank">(Google Material Icons installed)</a
+          >
         </li>
       </ul>
       <li class="font-semibold">Mdsvex</li>
