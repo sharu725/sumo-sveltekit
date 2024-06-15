@@ -5,7 +5,7 @@
       class="logo flex items-center text-center mb-4 group hover:shadow-xl"
     >
       <div class="icon p-1">
-        <div class="i-tabler-tools-kitchen text-5xl mr-1"></div>
+        <div class="i-ic:round-precision-manufacturing text-5xl mr-1"></div>
       </div>
       <h1 class="text-5xl bg-orange-700 text-white p-1">SumoKit</h1>
     </a>
@@ -38,11 +38,7 @@
             target="_blank"
             rel="external">CSS icons</a
           >
-          <a
-            class="underline"
-            href="https://icon-sets.iconify.design/ic/"
-            target="_blank">(Google Material Icons installed)</a
-          >
+          (Google Material Icons & Simple Icons)
         </li>
       </ul>
       <li class="font-semibold">Mdsvex</li>
@@ -61,7 +57,7 @@
       class="btn bg-gray-100 hover:bg-gray-200"
       href="https://github.com/sharu725/sumo-sveltekit"
     >
-      <div class="i-octicon:mark-github-16 mr-1"></div>
+      <div class="i-simple-icons:github mr-1"></div>
       Github</a
     >
   </div>

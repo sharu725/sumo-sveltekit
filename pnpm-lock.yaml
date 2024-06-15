@@ -8,9 +8,9 @@ devDependencies:
   '@iconify-json/ic':
     specifier: ^1.1.17
     version: 1.1.17
-  '@iconify/json':
-    specifier: ^2.2.219
-    version: 2.2.219
+  '@iconify-json/simple-icons':
+    specifier: ^1.1.105
+    version: 1.1.105
   '@sveltejs/adapter-auto':
     specifier: ^3.2.2
     version: 3.2.2(@sveltejs/kit@2.5.15)
@@ -285,11 +285,10 @@ packages:
       '@iconify/types': 2.0.0
     dev: true
 
-  /@iconify/json@2.2.219:
-    resolution: {integrity: sha512-q8asqbM61woVZ9rJGm/gvW46i5vdeHrq4TqZQ/5wF5ypk4pAZU9+4qVa5NQE2MZngYkMPeO68PDGGl7WaEV8jQ==}
+  /@iconify-json/simple-icons@1.1.105:
+    resolution: {integrity: sha512-eSI32492Ga6IR7BhpDy222pSupqshZIVuYllaYHDO0MjmgVvfus5wgXb/U8RXpMZTpcQ/8dNcCK82LkupFqD4w==}
     dependencies:
       '@iconify/types': 2.0.0
-      pathe: 1.1.2
     dev: true
 
   /@iconify/types@2.0.0:
