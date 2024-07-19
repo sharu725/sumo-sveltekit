@@ -4,9 +4,11 @@
   import "$lib/css/main.css";
   import { SITE_URL, SITE_TITLE, SITE_TYPE } from "$lib/constants";
   import { page } from "$app/stores";
+
+  let {children} = $props()
 </script>
 
-<slot />
+{@render children()}
 
 <svelte:head>
   <meta property="og:site_name" content={SITE_TITLE} />

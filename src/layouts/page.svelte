@@ -1,9 +1,9 @@
 <script>
-  export let title = "";
+  let { title, children } = $props();
 </script>
 
 <div class="page">
-  <slot />
+  {@render children()}
 </div>
 
 <svelte:head>

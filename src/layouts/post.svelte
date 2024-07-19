@@ -1,9 +1,9 @@
 <script>
-  export let title = "";
+  let { title, children } = $props();
 </script>
 
 <div class="post">
-  <slot />
+  {@render children()}
 </div>
 
 <svelte:head>
