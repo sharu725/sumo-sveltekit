@@ -20,9 +20,9 @@
     "@unocss/preset-uno": "^0.52.7",
     "@unocss/reset": "^0.52.7",
     "mdsvex": "^0.10.6",
-    "svelte": "5.0.0-next.192",
+    "svelte": "5.0.0-next.196",
     "svelte-check": "^3.8.4",
-    "typescript": "^5.5.3",
+    "typescript": "^5.5.4",
     "unocss": "^0.52.7",
     "vite": "^5.3.4"
   },
