@@ -4,8 +4,16 @@
   import "$lib/css/main.css";
   import { SITE_URL, SITE_TITLE, SITE_TYPE } from "$lib/constants";
   import { page } from "$app/stores";
+  import { onMount } from "svelte";
+  import { dev } from "$app/environment";
 
   let {children} = $props()
+
+  onMount(() => {
+    if(dev) {
+      console.log('%c SUMO-KIT uses bleeding edge packages. Expect bugs. ', 'background: #555; color: yellow; padding: 10px;');
+    }
+  })
 </script>
 
 {@render children()}
