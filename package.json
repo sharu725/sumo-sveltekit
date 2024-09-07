@@ -13,18 +13,18 @@
     "@iconify-json/ic": "^1.2.0",
     "@iconify-json/simple-icons": "^1.2.1",
     "@sveltejs/adapter-auto": "^3.2.4",
-    "@sveltejs/kit": "^2.5.25",
+    "@sveltejs/kit": "^2.5.26",
     "@sveltejs/vite-plugin-svelte": "4.0.0-next.6",
     "@unocss/extractor-svelte": "^0.52.7",
     "@unocss/preset-icons": "^0.52.7",
     "@unocss/preset-uno": "^0.52.7",
     "@unocss/reset": "^0.52.7",
     "mdsvex": "^0.12.3",
-    "svelte": "5.0.0-next.243",
+    "svelte": "5.0.0-next.244",
     "svelte-check": "^3.8.6",
     "typescript": "^5.5.4",
     "unocss": "^0.61.9",
-    "vite": "^5.4.2"
+    "vite": "^5.4.3"
   },
   "type": "module"
 }
