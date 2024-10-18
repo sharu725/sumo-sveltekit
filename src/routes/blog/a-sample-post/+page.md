@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A sample page
+title: A sample post
 ---
 
 ## A sample post
