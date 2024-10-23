@@ -20,7 +20,7 @@
         <li>
           <a
             class="underline"
-            href="https://svelte-5-preview.vercel.app/docs/introduction"
+            href="https://svelte.dev/docs/svelte/overview"
             target="_blank"
             rel="external"
           >
