@@ -24,7 +24,7 @@
             target="_blank"
             rel="external"
           >
-            Svelte 5.0 (Release Candidate)
+            Svelte 5.0
           </a>
         </li>
       </ul>
