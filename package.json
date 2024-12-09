@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@iconify-json/ic": "^1.2.1",
-    "@iconify-json/simple-icons": "^1.2.14",
+    "@iconify-json/simple-icons": "^1.2.15",
     "@sveltejs/adapter-auto": "^3.3.1",
     "@sveltejs/kit": "^2.9.0",
     "@sveltejs/vite-plugin-svelte": "^4.0.2",
@@ -20,7 +20,7 @@
     "@unocss/preset-uno": "^0.52.7",
     "@unocss/reset": "^0.52.7",
     "mdsvex": "^0.12.3",
-    "svelte": "^5.8.0",
+    "svelte": "^5.9.1",
     "svelte-check": "^3.8.6",
     "typescript": "^5.7.2",
     "unocss": "^0.61.9",
