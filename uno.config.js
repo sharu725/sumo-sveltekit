@@ -1,9 +1,9 @@
 import { defineConfig } from "unocss";
-import presetUno from "@unocss/preset-uno";
-import presetIcons from "@unocss/preset-icons";
+import presetWind4 from "@unocss/preset-wind4";
+import { presetIcons } from "unocss";
 
 export default defineConfig({
-  presets: [presetUno(), presetIcons({})],
+  presets: [presetWind4(), presetIcons()],
   shortcuts: [
     { btn: "flex items-center px-3 py-1 rounded duration-300" },
     { inp: "rounded px-2 py-1" },
